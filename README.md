@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🏆 Gold Medalist at the National Mathematics Competition "Adolf Haimovici"  
 &nbsp;&nbsp;&nbsp;&nbsp;🏆 Gold Medalist at the National Mathematics Competition“Mathematical Techniques”  
 &nbsp;&nbsp;&nbsp;&nbsp;🏅 Valedictorian of Technological High School Motru  
-&nbsp;&nbsp;&nbsp;&nbsp;📊 University GPA: 9.8 (First Year), 9.7 (Second Year - First Semester)  
+&nbsp;&nbsp;&nbsp;&nbsp;📊 University GPA: 9.8 (First Year), 9.83 (Second Year - First Semester)  
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Passionate about teaching and currently completing the pedagogical module  
       
 ## Projects & Interests
